@@ -1,0 +1,21 @@
+Circuit: * C:\Users\srava\OneDrive\Desktop\SEM-6\19ECE384-Open Lab (BMI-lab)\Square\Draft1.asc
+
+.OP point found by inspection.
+
+Date: Thu Feb 08 11:01:26 2024
+Total elapsed time: 1.260 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 460988
+traniter = 460988
+tranpoints = 230495
+accept = 198989
+rejected = 31506
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1:       9 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

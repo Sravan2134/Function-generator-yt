@@ -1,0 +1,44 @@
+Circuit: * C:\Users\srava\OneDrive\Desktop\SEM-6\19ECE384-Open Lab (BMI-lab)\Triangular\wien_bridgesine_to_square_to_triangular.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 836.601
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 817.345
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 815.95
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Mar 05 23:33:49 2024
+Total elapsed time: 0.391 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 27370
+traniter = 25778
+tranpoints = 7133
+accept = 5195
+rejected = 1938
+matrix size = 107
+fillins = 232
+solver = Normal
+Thread vector: 4.2/3.4[2] 1.4/1.2[2] 1.4/1.1[2] 0.3/0.7[1]  2592/500
+Matrix Compiler1: 19.06 KB object code size  2.9/1.0/[0.9]
+Matrix Compiler2: 12.84 KB object code size  0.8/0.8/[0.8]
+

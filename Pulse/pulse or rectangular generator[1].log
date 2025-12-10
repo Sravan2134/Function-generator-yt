@@ -1,0 +1,4 @@
+Circuit: * C:\Users\srava\OneDrive\Desktop\SEM-6\19ECE384-Open Lab (BMI-lab)\Pulse\pulse or rectangular generator[1].asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu2 vout n005 n007 n008 n006 ua741
